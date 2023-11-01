@@ -1,0 +1,51 @@
+body {
+	background-color: #eaeced;
+}
+
+.navbar-custom {
+    background-color: #39597e;
+    font-weight: bold;
+}
+
+.btn {
+    background-color: #39597e;
+
+}
+
+.btn:hover {
+    background-color: #acacac;
+
+}
+
+.link-custom {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.custom-footer {
+    background-color: #acacac;
+
+}
+
+.text-body-emphasis {
+    --bs-text-opacity: 1;
+	color: black !important;
+	font-family: 'Libre Baskerville', serif;
+font-family: 'Noto Serif', serif;
+font-family: 'Playfair Display', serif;
+}
+
+p {
+    color: black;
+	font-family: 'Lato', sans-serif;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+
+.achievements {
+	color: black;
+}
